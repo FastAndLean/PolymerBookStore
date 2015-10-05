@@ -34,15 +34,14 @@ Before you start following the example, please grab the following dependencies:
      npm install -g yo generator-polymer
      ```
 
-  7. Grab Tooling dependencies
+  7. Grab npm Tooling dependencies
 
      ```
      npm install
      ```
 
-  8. Grab Library dependencies
+  8. Grab bower Library dependencies
 
      ```
-     npm install
+     bower install
      ```
- 
